@@ -2,9 +2,7 @@ numpy
 matplotlib
 scipy
 scikit-image
-pandas
-tifffile
 napari
 napari-orthogonal-views
 PyQt6
-jupyter
+
