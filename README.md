@@ -4,7 +4,7 @@ This repository contains the Python implementation of a classical nuclei segment
 
 **"From 2D to 3D: Nuclei Segmentation Using ImageJ and Python."**
 
-The complete project report can be found in the **Report** section of this repository.
+The complete project report can be found in the **[Report](Report/F2_REPORT_Nuclei_segmentation_DiepThai.pdf)** section of this repository.
 
 The workflow performs nuclei segmentation using classical image processing techniques, including:
 
