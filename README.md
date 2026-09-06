@@ -15,4 +15,12 @@ The workflow performs nuclei segmentation using classical image processing techn
 - Watershed segmentation
 - Segmentation visualization
 
+<p align="center">
+  <img src="./Report/workflow.png" width="800">
+</p>
+
+<p align="center">
+  <em>Figure 1. Flowchart of nuclei segmentation pipeline used in the current study and implemented in both Python and Fiji. </em>
+</p>
+
 The pipeline is implemented in **Python** using **scikit-image**, **SciPy**, and **Matplotlib**.
